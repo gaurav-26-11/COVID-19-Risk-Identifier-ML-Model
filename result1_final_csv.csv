@@ -1,0 +1,1001 @@
+,temp,oxygen,heart beat,prediction
+0,105,99,109,no possible risk
+1,100,89,95,possible risk
+2,99,93,123,no possible risk
+3,103,89,96,possible risk
+4,104,96,67,no possible risk
+5,101,87,127,possible risk
+6,98,95,130,no possible risk
+7,97,85,87,need further investigation
+8,99,98,104,no possible risk
+9,101,91,113,no possible risk
+10,100,86,112,possible risk
+11,105,91,75,no possible risk
+12,105,99,85,no possible risk
+13,101,86,112,possible risk
+14,96,98,88,no possible risk
+15,103,85,84,possible risk
+16,101,94,75,no possible risk
+17,96,89,76,need further investigation
+18,96,95,65,no possible risk
+19,96,92,93,no possible risk
+20,105,98,75,no possible risk
+21,98,86,100,possible risk
+22,102,92,118,no possible risk
+23,103,94,89,no possible risk
+24,99,89,130,possible risk
+25,104,87,103,possible risk
+26,103,98,130,no possible risk
+27,99,90,84,no possible risk
+28,103,99,87,no possible risk
+29,100,92,121,no possible risk
+30,105,92,88,no possible risk
+31,98,91,116,no possible risk
+32,103,85,93,possible risk
+33,105,93,106,no possible risk
+34,105,96,108,no possible risk
+35,104,91,102,no possible risk
+36,100,87,89,possible risk
+37,102,91,91,no possible risk
+38,101,97,116,no possible risk
+39,96,89,130,possible risk
+40,98,89,93,possible risk
+41,104,90,112,no possible risk
+42,101,93,129,no possible risk
+43,101,86,87,possible risk
+44,98,93,112,no possible risk
+45,105,87,90,possible risk
+46,100,86,84,possible risk
+47,104,85,92,possible risk
+48,96,90,66,no possible risk
+49,99,90,107,no possible risk
+50,96,88,107,possible risk
+51,105,95,121,no possible risk
+52,102,96,101,no possible risk
+53,97,96,105,no possible risk
+54,96,94,114,no possible risk
+55,103,88,96,possible risk
+56,104,90,79,no possible risk
+57,100,90,116,no possible risk
+58,102,87,102,possible risk
+59,98,90,126,no possible risk
+60,105,98,126,no possible risk
+61,97,88,79,need further investigation
+62,97,95,81,no possible risk
+63,97,95,85,no possible risk
+64,102,89,82,possible risk
+65,96,85,125,possible risk
+66,105,99,111,no possible risk
+67,101,85,105,possible risk
+68,101,99,67,no possible risk
+69,96,93,85,no possible risk
+70,99,89,82,need further investigation
+71,103,91,91,no possible risk
+72,102,93,96,no possible risk
+73,105,88,82,possible risk
+74,102,94,85,no possible risk
+75,99,88,110,possible risk
+76,103,93,106,no possible risk
+77,98,96,100,no possible risk
+78,98,86,86,need further investigation
+79,103,95,65,no possible risk
+80,97,87,69,need further investigation
+81,99,87,109,possible risk
+82,103,86,66,possible risk
+83,97,86,102,possible risk
+84,103,85,109,possible risk
+85,101,93,76,no possible risk
+86,105,90,111,no possible risk
+87,96,91,124,no possible risk
+88,96,88,91,possible risk
+89,97,97,114,no possible risk
+90,104,92,75,no possible risk
+91,96,86,115,possible risk
+92,100,89,127,possible risk
+93,100,94,106,no possible risk
+94,102,95,69,no possible risk
+95,100,90,68,no possible risk
+96,98,95,86,no possible risk
+97,97,87,87,need further investigation
+98,104,99,118,no possible risk
+99,103,90,121,no possible risk
+100,99,97,85,no possible risk
+101,103,93,123,no possible risk
+102,104,94,124,no possible risk
+103,96,96,96,no possible risk
+104,96,99,63,no possible risk
+105,104,91,96,no possible risk
+106,101,85,126,possible risk
+107,96,98,89,no possible risk
+108,99,85,122,possible risk
+109,97,85,107,possible risk
+110,101,93,93,no possible risk
+111,103,96,91,no possible risk
+112,99,87,79,need further investigation
+113,98,90,117,no possible risk
+114,103,88,83,possible risk
+115,100,96,76,no possible risk
+116,98,97,102,no possible risk
+117,97,94,124,no possible risk
+118,100,93,85,no possible risk
+119,97,96,129,no possible risk
+120,96,94,86,no possible risk
+121,99,95,114,no possible risk
+122,99,95,69,no possible risk
+123,104,87,118,possible risk
+124,103,99,102,no possible risk
+125,97,87,123,possible risk
+126,100,93,84,no possible risk
+127,102,88,81,possible risk
+128,100,98,96,no possible risk
+129,100,95,60,no possible risk
+130,104,91,115,no possible risk
+131,103,96,103,no possible risk
+132,100,92,103,no possible risk
+133,96,93,120,no possible risk
+134,100,90,110,no possible risk
+135,102,87,63,possible risk
+136,100,92,105,no possible risk
+137,105,85,106,possible risk
+138,104,95,68,no possible risk
+139,99,88,122,possible risk
+140,105,95,66,no possible risk
+141,98,97,71,no possible risk
+142,98,94,128,no possible risk
+143,98,97,86,no possible risk
+144,100,88,106,possible risk
+145,96,87,107,possible risk
+146,97,96,69,no possible risk
+147,103,94,92,no possible risk
+148,99,88,127,possible risk
+149,100,93,79,no possible risk
+150,98,85,100,possible risk
+151,97,91,82,no possible risk
+152,100,86,125,possible risk
+153,103,98,76,no possible risk
+154,100,90,65,no possible risk
+155,103,87,88,possible risk
+156,97,90,73,no possible risk
+157,99,92,82,no possible risk
+158,105,88,115,possible risk
+159,103,98,114,no possible risk
+160,105,97,104,no possible risk
+161,99,92,64,no possible risk
+162,101,87,124,possible risk
+163,98,95,80,no possible risk
+164,97,89,76,need further investigation
+165,96,97,62,no possible risk
+166,97,99,77,no possible risk
+167,99,89,98,possible risk
+168,100,92,66,no possible risk
+169,103,98,116,no possible risk
+170,96,85,109,possible risk
+171,103,98,93,no possible risk
+172,103,91,102,no possible risk
+173,103,86,124,possible risk
+174,104,96,118,no possible risk
+175,97,91,102,no possible risk
+176,103,90,119,no possible risk
+177,100,94,124,no possible risk
+178,99,91,122,no possible risk
+179,102,86,79,possible risk
+180,98,85,94,possible risk
+181,98,86,94,possible risk
+182,100,86,110,possible risk
+183,96,98,85,no possible risk
+184,100,89,91,possible risk
+185,102,96,95,no possible risk
+186,97,90,103,no possible risk
+187,96,90,119,no possible risk
+188,105,85,128,possible risk
+189,99,86,73,need further investigation
+190,105,93,122,no possible risk
+191,101,93,86,no possible risk
+192,96,94,118,no possible risk
+193,104,99,80,no possible risk
+194,98,85,111,possible risk
+195,97,90,67,no possible risk
+196,100,93,77,no possible risk
+197,104,94,77,no possible risk
+198,102,86,61,possible risk
+199,100,90,110,no possible risk
+200,97,85,107,possible risk
+201,103,90,77,no possible risk
+202,102,86,129,possible risk
+203,105,95,104,no possible risk
+204,102,94,76,no possible risk
+205,97,94,69,no possible risk
+206,102,99,86,no possible risk
+207,102,97,112,no possible risk
+208,101,97,63,no possible risk
+209,99,96,125,no possible risk
+210,105,85,88,possible risk
+211,97,92,124,no possible risk
+212,103,96,111,no possible risk
+213,98,94,68,no possible risk
+214,104,96,98,no possible risk
+215,105,91,70,no possible risk
+216,105,99,65,no possible risk
+217,98,89,103,possible risk
+218,98,93,89,no possible risk
+219,100,93,89,no possible risk
+220,99,90,61,no possible risk
+221,99,89,94,possible risk
+222,101,94,103,no possible risk
+223,105,86,85,possible risk
+224,102,89,93,possible risk
+225,103,91,102,no possible risk
+226,104,88,69,possible risk
+227,105,90,101,no possible risk
+228,103,96,89,no possible risk
+229,99,95,95,no possible risk
+230,100,90,116,no possible risk
+231,101,92,85,no possible risk
+232,96,91,71,no possible risk
+233,99,93,119,no possible risk
+234,103,86,85,possible risk
+235,99,90,105,no possible risk
+236,96,97,119,no possible risk
+237,101,95,97,no possible risk
+238,104,90,93,no possible risk
+239,96,92,84,no possible risk
+240,104,87,64,possible risk
+241,104,96,108,no possible risk
+242,97,88,67,need further investigation
+243,97,88,87,need further investigation
+244,97,95,77,no possible risk
+245,97,94,130,no possible risk
+246,105,95,75,no possible risk
+247,99,98,96,no possible risk
+248,97,90,122,no possible risk
+249,102,97,85,no possible risk
+250,100,90,74,no possible risk
+251,103,97,102,no possible risk
+252,97,89,96,possible risk
+253,100,85,129,possible risk
+254,102,87,125,possible risk
+255,96,97,69,no possible risk
+256,102,92,61,no possible risk
+257,98,87,129,possible risk
+258,100,92,129,no possible risk
+259,103,94,107,no possible risk
+260,96,94,109,no possible risk
+261,100,87,81,possible risk
+262,97,86,67,need further investigation
+263,100,93,112,no possible risk
+264,100,95,125,no possible risk
+265,101,86,69,possible risk
+266,100,99,61,no possible risk
+267,96,90,74,no possible risk
+268,101,86,112,possible risk
+269,100,92,118,no possible risk
+270,100,88,74,possible risk
+271,98,91,90,no possible risk
+272,104,95,126,no possible risk
+273,96,91,99,no possible risk
+274,102,88,101,possible risk
+275,99,87,77,need further investigation
+276,98,99,121,no possible risk
+277,105,86,83,possible risk
+278,98,89,78,need further investigation
+279,101,91,113,no possible risk
+280,98,92,115,no possible risk
+281,99,87,86,need further investigation
+282,101,88,103,possible risk
+283,98,89,90,need further investigation
+284,105,95,94,no possible risk
+285,98,86,116,possible risk
+286,104,91,91,no possible risk
+287,104,95,73,no possible risk
+288,98,94,68,no possible risk
+289,98,94,68,no possible risk
+290,101,92,106,no possible risk
+291,98,93,76,no possible risk
+292,98,86,112,possible risk
+293,98,93,114,no possible risk
+294,104,85,120,possible risk
+295,104,92,102,no possible risk
+296,98,85,117,possible risk
+297,101,93,66,no possible risk
+298,100,87,97,possible risk
+299,97,97,102,no possible risk
+300,99,86,92,possible risk
+301,102,92,84,no possible risk
+302,103,94,78,no possible risk
+303,99,97,62,no possible risk
+304,101,99,123,no possible risk
+305,97,95,93,no possible risk
+306,99,88,109,possible risk
+307,104,85,80,possible risk
+308,98,96,80,no possible risk
+309,105,94,111,no possible risk
+310,100,95,102,no possible risk
+311,104,87,87,possible risk
+312,100,99,83,no possible risk
+313,98,86,74,need further investigation
+314,97,96,62,no possible risk
+315,101,86,96,possible risk
+316,99,90,116,no possible risk
+317,97,95,127,no possible risk
+318,97,91,75,no possible risk
+319,96,91,74,no possible risk
+320,97,91,93,no possible risk
+321,105,90,60,no possible risk
+322,98,89,112,possible risk
+323,98,93,90,no possible risk
+324,103,87,99,possible risk
+325,97,87,87,need further investigation
+326,100,96,128,no possible risk
+327,96,98,89,no possible risk
+328,104,95,121,no possible risk
+329,105,85,98,possible risk
+330,98,98,92,no possible risk
+331,101,88,120,possible risk
+332,104,96,80,no possible risk
+333,103,87,92,possible risk
+334,101,95,82,no possible risk
+335,97,96,69,no possible risk
+336,98,96,82,no possible risk
+337,101,96,71,no possible risk
+338,98,94,88,no possible risk
+339,104,92,93,no possible risk
+340,100,98,127,no possible risk
+341,97,97,125,no possible risk
+342,98,86,85,need further investigation
+343,100,95,130,no possible risk
+344,105,90,81,no possible risk
+345,96,97,111,no possible risk
+346,103,91,104,no possible risk
+347,100,96,103,no possible risk
+348,103,87,130,possible risk
+349,98,89,78,need further investigation
+350,100,87,67,possible risk
+351,97,95,81,no possible risk
+352,96,96,125,no possible risk
+353,104,95,72,no possible risk
+354,104,98,113,no possible risk
+355,97,90,129,no possible risk
+356,99,90,104,no possible risk
+357,96,85,130,possible risk
+358,103,96,64,no possible risk
+359,104,97,98,no possible risk
+360,103,93,64,no possible risk
+361,105,85,118,possible risk
+362,100,91,98,no possible risk
+363,98,92,95,no possible risk
+364,99,91,104,no possible risk
+365,102,85,119,possible risk
+366,96,90,82,no possible risk
+367,96,98,120,no possible risk
+368,103,90,108,no possible risk
+369,105,87,61,possible risk
+370,100,85,84,possible risk
+371,99,98,118,no possible risk
+372,96,93,73,no possible risk
+373,104,95,86,no possible risk
+374,99,85,67,need further investigation
+375,100,88,66,possible risk
+376,105,90,77,no possible risk
+377,96,90,121,no possible risk
+378,103,97,105,no possible risk
+379,105,86,123,possible risk
+380,100,98,80,no possible risk
+381,102,86,130,possible risk
+382,103,99,75,no possible risk
+383,103,90,71,no possible risk
+384,97,93,65,no possible risk
+385,104,98,95,no possible risk
+386,99,85,113,possible risk
+387,104,97,100,no possible risk
+388,99,96,121,no possible risk
+389,100,90,113,no possible risk
+390,96,94,130,no possible risk
+391,104,90,62,no possible risk
+392,103,97,128,no possible risk
+393,100,96,98,no possible risk
+394,100,98,97,no possible risk
+395,97,88,66,need further investigation
+396,101,93,119,no possible risk
+397,102,98,65,no possible risk
+398,96,86,99,possible risk
+399,97,89,110,possible risk
+400,99,96,61,no possible risk
+401,101,94,67,no possible risk
+402,105,94,78,no possible risk
+403,101,90,60,no possible risk
+404,99,89,93,possible risk
+405,101,94,95,no possible risk
+406,103,88,81,possible risk
+407,105,86,101,possible risk
+408,98,89,117,possible risk
+409,104,87,112,possible risk
+410,101,93,93,no possible risk
+411,96,88,113,possible risk
+412,97,97,79,no possible risk
+413,104,92,126,no possible risk
+414,101,94,100,no possible risk
+415,102,95,116,no possible risk
+416,100,95,84,no possible risk
+417,99,94,121,no possible risk
+418,100,94,129,no possible risk
+419,96,86,68,need further investigation
+420,96,89,117,possible risk
+421,98,99,130,no possible risk
+422,100,97,122,no possible risk
+423,102,85,71,possible risk
+424,105,86,91,possible risk
+425,101,99,66,no possible risk
+426,99,98,63,no possible risk
+427,103,88,70,possible risk
+428,102,93,129,no possible risk
+429,98,88,68,need further investigation
+430,101,85,128,possible risk
+431,103,96,96,no possible risk
+432,104,97,99,no possible risk
+433,97,88,77,need further investigation
+434,104,85,92,possible risk
+435,96,89,67,need further investigation
+436,97,86,106,possible risk
+437,103,97,115,no possible risk
+438,97,89,104,possible risk
+439,103,92,88,no possible risk
+440,102,85,128,possible risk
+441,103,92,71,no possible risk
+442,99,99,103,no possible risk
+443,97,89,102,possible risk
+444,98,86,92,possible risk
+445,99,86,74,need further investigation
+446,97,93,79,no possible risk
+447,96,90,76,no possible risk
+448,99,91,127,no possible risk
+449,101,86,72,possible risk
+450,99,95,124,no possible risk
+451,102,87,110,possible risk
+452,98,97,77,no possible risk
+453,97,89,109,possible risk
+454,105,91,76,no possible risk
+455,99,88,116,possible risk
+456,103,93,76,no possible risk
+457,97,88,79,need further investigation
+458,103,92,76,no possible risk
+459,104,95,65,no possible risk
+460,101,92,80,no possible risk
+461,97,88,60,need further investigation
+462,99,93,96,no possible risk
+463,102,93,67,no possible risk
+464,96,92,62,no possible risk
+465,105,87,112,possible risk
+466,101,96,92,no possible risk
+467,97,98,85,no possible risk
+468,102,99,88,no possible risk
+469,99,88,101,possible risk
+470,103,92,94,no possible risk
+471,104,92,63,no possible risk
+472,97,93,122,no possible risk
+473,105,93,60,no possible risk
+474,101,90,74,no possible risk
+475,102,97,123,no possible risk
+476,97,99,98,no possible risk
+477,98,97,125,no possible risk
+478,105,89,84,possible risk
+479,103,89,67,possible risk
+480,99,86,115,possible risk
+481,101,87,79,possible risk
+482,96,99,74,no possible risk
+483,101,91,101,no possible risk
+484,96,96,115,no possible risk
+485,96,85,65,need further investigation
+486,104,91,121,no possible risk
+487,102,95,62,no possible risk
+488,98,92,123,no possible risk
+489,102,92,130,no possible risk
+490,101,94,64,no possible risk
+491,96,88,60,need further investigation
+492,96,89,87,need further investigation
+493,99,98,102,no possible risk
+494,96,90,67,no possible risk
+495,99,96,67,no possible risk
+496,98,86,129,possible risk
+497,104,97,99,no possible risk
+498,104,95,111,no possible risk
+499,101,87,127,possible risk
+500,101,97,118,no possible risk
+501,96,86,83,need further investigation
+502,97,97,77,no possible risk
+503,97,92,86,no possible risk
+504,104,95,130,no possible risk
+505,104,96,100,no possible risk
+506,101,89,113,possible risk
+507,100,89,74,possible risk
+508,104,90,110,no possible risk
+509,104,95,84,no possible risk
+510,96,90,95,no possible risk
+511,105,98,89,no possible risk
+512,105,86,73,possible risk
+513,96,85,108,possible risk
+514,105,98,71,no possible risk
+515,97,91,121,no possible risk
+516,101,89,105,possible risk
+517,101,91,73,no possible risk
+518,105,95,77,no possible risk
+519,101,90,125,no possible risk
+520,97,85,123,possible risk
+521,98,99,129,no possible risk
+522,99,86,74,need further investigation
+523,104,85,60,possible risk
+524,101,90,82,no possible risk
+525,100,95,103,no possible risk
+526,102,90,79,no possible risk
+527,104,86,73,possible risk
+528,103,94,98,no possible risk
+529,97,88,129,possible risk
+530,104,96,75,no possible risk
+531,97,89,60,need further investigation
+532,100,90,104,no possible risk
+533,97,92,62,no possible risk
+534,101,86,67,possible risk
+535,103,99,74,no possible risk
+536,104,96,127,no possible risk
+537,100,94,70,no possible risk
+538,105,96,121,no possible risk
+539,102,99,63,no possible risk
+540,96,96,71,no possible risk
+541,102,94,68,no possible risk
+542,103,88,86,possible risk
+543,99,87,76,need further investigation
+544,103,90,117,no possible risk
+545,101,90,72,no possible risk
+546,102,95,106,no possible risk
+547,103,98,92,no possible risk
+548,96,90,103,no possible risk
+549,99,96,90,no possible risk
+550,96,85,101,possible risk
+551,96,90,84,no possible risk
+552,103,94,73,no possible risk
+553,97,85,94,possible risk
+554,105,97,121,no possible risk
+555,100,88,130,possible risk
+556,99,88,121,possible risk
+557,105,96,73,no possible risk
+558,98,88,101,possible risk
+559,98,85,112,possible risk
+560,104,88,72,possible risk
+561,103,89,70,possible risk
+562,103,96,85,no possible risk
+563,100,86,67,possible risk
+564,98,95,125,no possible risk
+565,96,89,69,need further investigation
+566,99,85,83,need further investigation
+567,105,90,129,no possible risk
+568,102,88,99,possible risk
+569,96,95,76,no possible risk
+570,105,85,114,possible risk
+571,103,88,96,possible risk
+572,97,86,64,need further investigation
+573,97,91,78,no possible risk
+574,100,87,95,possible risk
+575,103,98,107,no possible risk
+576,99,92,83,no possible risk
+577,102,99,78,no possible risk
+578,97,89,124,possible risk
+579,105,95,86,no possible risk
+580,100,90,68,no possible risk
+581,104,85,121,possible risk
+582,100,91,62,no possible risk
+583,103,91,69,no possible risk
+584,105,99,101,no possible risk
+585,103,85,70,possible risk
+586,96,88,73,need further investigation
+587,100,88,95,possible risk
+588,102,99,71,no possible risk
+589,105,97,74,no possible risk
+590,101,92,93,no possible risk
+591,96,91,129,no possible risk
+592,100,98,124,no possible risk
+593,101,95,77,no possible risk
+594,104,85,113,possible risk
+595,104,86,65,possible risk
+596,97,91,68,no possible risk
+597,101,89,99,possible risk
+598,105,85,108,possible risk
+599,102,94,88,no possible risk
+600,97,86,65,need further investigation
+601,101,93,118,no possible risk
+602,102,89,102,possible risk
+603,101,92,83,no possible risk
+604,104,91,112,no possible risk
+605,101,88,89,possible risk
+606,103,88,116,possible risk
+607,105,96,115,no possible risk
+608,102,90,113,no possible risk
+609,96,93,93,no possible risk
+610,96,97,109,no possible risk
+611,98,94,76,no possible risk
+612,97,86,88,need further investigation
+613,100,85,103,possible risk
+614,99,86,83,need further investigation
+615,98,94,122,no possible risk
+616,98,95,115,no possible risk
+617,99,86,76,need further investigation
+618,103,95,64,no possible risk
+619,101,98,109,no possible risk
+620,104,92,85,no possible risk
+621,105,95,114,no possible risk
+622,96,87,130,possible risk
+623,97,89,97,possible risk
+624,97,85,104,possible risk
+625,97,87,111,possible risk
+626,104,95,103,no possible risk
+627,101,89,123,possible risk
+628,105,90,110,no possible risk
+629,103,99,90,no possible risk
+630,102,97,126,no possible risk
+631,97,90,129,no possible risk
+632,98,91,125,no possible risk
+633,103,91,109,no possible risk
+634,104,86,126,possible risk
+635,104,92,127,no possible risk
+636,104,97,63,no possible risk
+637,103,88,67,possible risk
+638,97,87,67,need further investigation
+639,96,98,109,no possible risk
+640,96,94,63,no possible risk
+641,96,86,82,need further investigation
+642,97,92,105,no possible risk
+643,101,88,101,possible risk
+644,100,96,102,no possible risk
+645,98,95,116,no possible risk
+646,100,96,115,no possible risk
+647,102,85,112,possible risk
+648,105,91,73,no possible risk
+649,97,91,85,no possible risk
+650,102,92,103,no possible risk
+651,102,96,70,no possible risk
+652,99,99,81,no possible risk
+653,104,88,70,possible risk
+654,104,88,117,possible risk
+655,102,92,112,no possible risk
+656,103,93,127,no possible risk
+657,104,87,84,possible risk
+658,102,96,86,no possible risk
+659,96,97,81,no possible risk
+660,97,95,100,no possible risk
+661,105,86,94,possible risk
+662,103,93,60,no possible risk
+663,100,90,115,no possible risk
+664,96,97,101,no possible risk
+665,100,90,130,no possible risk
+666,98,88,122,possible risk
+667,101,85,90,possible risk
+668,102,97,61,no possible risk
+669,96,90,127,no possible risk
+670,101,92,63,no possible risk
+671,97,95,94,no possible risk
+672,105,97,60,no possible risk
+673,100,94,112,no possible risk
+674,97,91,93,no possible risk
+675,101,99,68,no possible risk
+676,101,90,97,no possible risk
+677,99,92,68,no possible risk
+678,100,88,67,possible risk
+679,102,88,112,possible risk
+680,103,87,117,possible risk
+681,100,93,76,no possible risk
+682,96,99,126,no possible risk
+683,102,88,117,possible risk
+684,101,86,129,possible risk
+685,102,91,94,no possible risk
+686,103,89,125,possible risk
+687,104,98,120,no possible risk
+688,96,85,104,possible risk
+689,98,92,71,no possible risk
+690,100,91,74,no possible risk
+691,99,95,76,no possible risk
+692,99,88,73,need further investigation
+693,102,86,61,possible risk
+694,97,98,65,no possible risk
+695,102,93,100,no possible risk
+696,96,96,118,no possible risk
+697,105,92,129,no possible risk
+698,100,98,93,no possible risk
+699,101,89,97,possible risk
+700,104,88,86,possible risk
+701,96,92,69,no possible risk
+702,104,97,114,no possible risk
+703,99,93,98,no possible risk
+704,100,88,85,possible risk
+705,105,94,87,no possible risk
+706,105,98,96,no possible risk
+707,100,85,128,possible risk
+708,100,88,104,possible risk
+709,103,95,92,no possible risk
+710,105,97,88,no possible risk
+711,97,99,81,no possible risk
+712,96,99,117,no possible risk
+713,103,94,62,no possible risk
+714,96,89,82,need further investigation
+715,96,88,81,need further investigation
+716,102,88,85,possible risk
+717,98,86,83,need further investigation
+718,97,99,125,no possible risk
+719,98,96,85,no possible risk
+720,98,85,74,need further investigation
+721,102,99,73,no possible risk
+722,97,85,126,possible risk
+723,104,91,85,no possible risk
+724,96,87,84,need further investigation
+725,105,91,61,no possible risk
+726,99,93,112,no possible risk
+727,97,99,81,no possible risk
+728,99,85,125,possible risk
+729,103,88,94,possible risk
+730,103,88,92,possible risk
+731,99,88,112,possible risk
+732,99,93,86,no possible risk
+733,105,97,80,no possible risk
+734,100,97,83,no possible risk
+735,100,94,118,no possible risk
+736,97,85,65,need further investigation
+737,96,99,95,no possible risk
+738,103,99,129,no possible risk
+739,105,88,79,possible risk
+740,96,95,119,no possible risk
+741,105,91,111,no possible risk
+742,102,88,128,possible risk
+743,105,91,107,no possible risk
+744,105,96,61,no possible risk
+745,101,95,104,no possible risk
+746,103,94,121,no possible risk
+747,97,86,81,need further investigation
+748,103,92,63,no possible risk
+749,102,93,125,no possible risk
+750,104,92,124,no possible risk
+751,97,98,91,no possible risk
+752,102,95,68,no possible risk
+753,101,94,73,no possible risk
+754,97,90,80,no possible risk
+755,102,86,121,possible risk
+756,105,98,118,no possible risk
+757,97,97,125,no possible risk
+758,105,98,61,no possible risk
+759,102,86,72,possible risk
+760,96,95,70,no possible risk
+761,102,88,123,possible risk
+762,101,88,98,possible risk
+763,100,91,104,no possible risk
+764,104,92,93,no possible risk
+765,105,88,117,possible risk
+766,103,87,75,possible risk
+767,102,89,88,possible risk
+768,97,93,93,no possible risk
+769,104,95,101,no possible risk
+770,100,87,66,possible risk
+771,96,85,92,possible risk
+772,102,96,100,no possible risk
+773,102,98,62,no possible risk
+774,103,95,115,no possible risk
+775,102,96,110,no possible risk
+776,97,92,102,no possible risk
+777,97,93,84,no possible risk
+778,102,93,81,no possible risk
+779,103,95,101,no possible risk
+780,100,92,117,no possible risk
+781,105,97,92,no possible risk
+782,96,91,61,no possible risk
+783,96,86,86,need further investigation
+784,101,87,97,possible risk
+785,101,91,130,no possible risk
+786,102,89,81,possible risk
+787,102,95,71,no possible risk
+788,103,90,80,no possible risk
+789,100,86,115,possible risk
+790,105,92,117,no possible risk
+791,96,92,83,no possible risk
+792,105,89,125,possible risk
+793,105,85,66,possible risk
+794,102,95,64,no possible risk
+795,105,93,84,no possible risk
+796,99,91,60,no possible risk
+797,97,92,67,no possible risk
+798,102,94,83,no possible risk
+799,97,95,91,no possible risk
+800,102,93,83,no possible risk
+801,101,91,123,no possible risk
+802,103,96,127,no possible risk
+803,99,92,83,no possible risk
+804,97,93,101,no possible risk
+805,103,88,74,possible risk
+806,100,95,79,no possible risk
+807,100,87,60,possible risk
+808,103,90,76,no possible risk
+809,97,99,64,no possible risk
+810,97,96,119,no possible risk
+811,97,85,106,possible risk
+812,98,92,61,no possible risk
+813,97,89,68,need further investigation
+814,101,85,79,possible risk
+815,103,89,60,possible risk
+816,97,95,80,no possible risk
+817,97,98,101,no possible risk
+818,97,88,84,need further investigation
+819,103,97,103,no possible risk
+820,104,85,105,possible risk
+821,104,96,111,no possible risk
+822,105,99,97,no possible risk
+823,97,87,123,possible risk
+824,98,90,126,no possible risk
+825,97,96,118,no possible risk
+826,98,87,76,need further investigation
+827,98,92,99,no possible risk
+828,99,90,111,no possible risk
+829,104,85,80,possible risk
+830,98,92,61,no possible risk
+831,104,97,124,no possible risk
+832,97,87,114,possible risk
+833,98,94,73,no possible risk
+834,100,85,100,possible risk
+835,98,96,87,no possible risk
+836,99,87,87,need further investigation
+837,100,92,130,no possible risk
+838,105,98,113,no possible risk
+839,104,95,91,no possible risk
+840,97,97,108,no possible risk
+841,102,91,80,no possible risk
+842,99,91,84,no possible risk
+843,101,95,88,no possible risk
+844,96,97,63,no possible risk
+845,101,96,112,no possible risk
+846,105,96,73,no possible risk
+847,105,97,96,no possible risk
+848,101,96,97,no possible risk
+849,102,86,114,possible risk
+850,100,87,113,possible risk
+851,97,89,60,need further investigation
+852,100,94,81,no possible risk
+853,102,98,85,no possible risk
+854,104,91,101,no possible risk
+855,104,90,82,no possible risk
+856,99,88,119,possible risk
+857,105,89,117,possible risk
+858,99,98,93,no possible risk
+859,104,88,124,possible risk
+860,104,94,122,no possible risk
+861,96,96,69,no possible risk
+862,104,97,102,no possible risk
+863,103,94,80,no possible risk
+864,105,90,78,no possible risk
+865,101,90,130,no possible risk
+866,100,85,63,possible risk
+867,102,91,129,no possible risk
+868,96,96,89,no possible risk
+869,105,98,97,no possible risk
+870,96,98,80,no possible risk
+871,99,96,87,no possible risk
+872,105,87,66,possible risk
+873,105,96,69,no possible risk
+874,102,96,65,no possible risk
+875,97,88,83,need further investigation
+876,100,92,93,no possible risk
+877,98,87,102,possible risk
+878,97,88,96,possible risk
+879,99,95,63,no possible risk
+880,99,87,67,need further investigation
+881,96,89,103,possible risk
+882,104,87,130,possible risk
+883,103,88,103,possible risk
+884,96,96,69,no possible risk
+885,96,88,86,need further investigation
+886,103,86,117,possible risk
+887,101,95,75,no possible risk
+888,100,88,120,possible risk
+889,105,99,83,no possible risk
+890,97,92,66,no possible risk
+891,101,87,127,possible risk
+892,99,91,70,no possible risk
+893,105,85,67,possible risk
+894,105,92,124,no possible risk
+895,98,91,94,no possible risk
+896,97,97,130,no possible risk
+897,101,90,127,no possible risk
+898,99,92,71,no possible risk
+899,103,91,81,no possible risk
+900,99,88,73,need further investigation
+901,104,96,88,no possible risk
+902,104,87,123,possible risk
+903,98,97,128,no possible risk
+904,97,98,113,no possible risk
+905,105,98,71,no possible risk
+906,100,90,90,no possible risk
+907,105,85,112,possible risk
+908,97,86,87,need further investigation
+909,104,86,75,possible risk
+910,98,90,60,no possible risk
+911,104,85,74,possible risk
+912,103,85,100,possible risk
+913,105,96,102,no possible risk
+914,103,88,115,possible risk
+915,103,95,69,no possible risk
+916,96,89,110,possible risk
+917,97,89,92,possible risk
+918,101,85,83,possible risk
+919,100,91,93,no possible risk
+920,96,95,94,no possible risk
+921,98,97,88,no possible risk
+922,97,91,125,no possible risk
+923,100,98,74,no possible risk
+924,99,86,98,possible risk
+925,102,89,99,possible risk
+926,102,94,70,no possible risk
+927,104,90,88,no possible risk
+928,100,96,82,no possible risk
+929,102,97,123,no possible risk
+930,105,98,96,no possible risk
+931,103,94,63,no possible risk
+932,103,91,103,no possible risk
+933,99,96,61,no possible risk
+934,96,96,103,no possible risk
+935,101,94,81,no possible risk
+936,97,94,112,no possible risk
+937,105,98,119,no possible risk
+938,96,89,77,need further investigation
+939,101,90,77,no possible risk
+940,103,94,66,no possible risk
+941,104,95,93,no possible risk
+942,102,85,62,possible risk
+943,98,89,87,need further investigation
+944,105,90,85,no possible risk
+945,103,98,81,no possible risk
+946,104,97,78,no possible risk
+947,102,87,69,possible risk
+948,97,90,65,no possible risk
+949,102,94,102,no possible risk
+950,97,89,100,possible risk
+951,103,95,90,no possible risk
+952,97,94,111,no possible risk
+953,105,87,88,possible risk
+954,101,98,86,no possible risk
+955,101,94,100,no possible risk
+956,103,86,108,possible risk
+957,103,90,125,no possible risk
+958,98,97,67,no possible risk
+959,96,89,102,possible risk
+960,96,92,118,no possible risk
+961,103,85,62,possible risk
+962,100,89,85,possible risk
+963,103,87,92,possible risk
+964,104,92,82,no possible risk
+965,98,96,107,no possible risk
+966,101,95,65,no possible risk
+967,103,87,126,possible risk
+968,99,92,117,no possible risk
+969,101,99,116,no possible risk
+970,104,89,65,possible risk
+971,104,86,73,possible risk
+972,102,89,97,possible risk
+973,102,96,94,no possible risk
+974,97,94,83,no possible risk
+975,104,92,88,no possible risk
+976,102,86,79,possible risk
+977,98,95,109,no possible risk
+978,99,89,130,possible risk
+979,96,99,98,no possible risk
+980,97,99,79,no possible risk
+981,99,98,119,no possible risk
+982,101,86,116,possible risk
+983,97,91,93,no possible risk
+984,103,87,109,possible risk
+985,98,90,87,no possible risk
+986,96,97,99,no possible risk
+987,103,91,72,no possible risk
+988,103,86,122,possible risk
+989,104,90,91,no possible risk
+990,96,94,66,no possible risk
+991,102,88,123,possible risk
+992,101,88,79,possible risk
+993,101,85,124,possible risk
+994,99,97,126,no possible risk
+995,99,87,77,need further investigation
+996,104,87,90,possible risk
+997,100,93,62,no possible risk
+998,96,89,106,possible risk
+999,100,85,125,possible risk
